@@ -1,5 +1,4 @@
-# Text Sentiment Anaysis (BERT, BoW, SVM, NaiveBayes)
-
+# Text Sentiment Anaysis: A comparative approach
 **Since this is a hobby project, it was not written with a clean code approach. Moreover, of the studies mentioned below, only those deemed necessary have been added to the repo.**
 
 This project was for the one of the courses of Ankara University. The project topic was up to us and we selected one of the popular topics which is NLP(Natural Language Processing) nowadays.
