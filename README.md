@@ -12,7 +12,7 @@ We used 2 different datasets which are IMDB Review Dataset and Sentiment140 data
 
 We first preprocessed the dataset in a way that suits us (Removing some special characters and phrases etc.)
 
-After all experiments, `BERTForSequenceClassification()` class from `Transformers` library gave us the best scores. It has it's default classifier which is softmax. Although we tried to get BERT's last output layers and gave it to our ANN models which also included softmax, we got worse scores than `BERTForSequenceClassification()`'s built-in classifier.
+After all experiments, `BERTForSequenceClassification()` class from `Transformers` library gave us the best scores (%90 accuracy). It has it's default classifier which is softmax. Although we tried to get BERT's last output layers and gave it to our ANN models which also included softmax, we got worse scores than `BERTForSequenceClassification()`'s built-in classifier.
 
 
 
