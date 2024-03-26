@@ -1,7 +1,7 @@
 # Text Sentiment Anaysis: A comparative approach
-**Since this is a hobby project, it was not written with a clean code approach. Moreover, of the studies mentioned below, only those deemed necessary have been added to the repo.**
+**Since this is a hobby project, it was not written with a clean code approach. Moreover, of the studies mentioned below, only some files from the works have been added to the repo.**
 
-This project was for the one of the courses of Ankara University. The project topic was up to us and we selected one of the popular topics which is NLP(Natural Language Processing) nowadays.
+This project was for the one of the courses of Ankara University. The project topic was up to us and we selected one of the popular topics in NLP(Natural Language Processing) which is binary Text Sentiment Analysis (Positive-Negative).
 
 We tried to use some different feature extraction methods like BERT, BoW, TF-IDF and also classification methods such as SVM, NaiveBayes, XGBoost, Softmax, Logistic Regression etc. 
 
